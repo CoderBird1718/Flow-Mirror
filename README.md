@@ -2,6 +2,9 @@
 
 Flow Mirror is an interactive web application that recreates the experience of writing on a fogged mirror using computer vision, hand tracking, and microphone input. Users can create virtual fog by blowing into the microphone, erase or draw using pinch gestures, and capture memorable snapshots with simple hand gestures.
 
+## Live Link : 
+https://coderbird1718.github.io/Flow-Mirror/
+
 ##  Features
 
 *  Real-time webcam integration
